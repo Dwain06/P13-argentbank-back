@@ -1,11 +1,11 @@
-# Project #10 - Argent Bank API
-
-This codebase contains the code needed to run the backend for Argent Bank.
+# Projet 13 OpenClassrooms : Back Argent Bank API
+#### _API de l'interface Argent Bank_
 
 ## Getting Started
 
 ### Prerequisites
 
+This codebase contains the code needed to run the backend for Argent Bank.
 Argent Bank uses the following tech stack:
 
 - [Node.js v12](https://nodejs.org/en/)
