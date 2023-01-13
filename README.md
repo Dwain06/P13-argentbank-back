@@ -6,6 +6,8 @@
 ### Prerequisites
 
 This codebase contains the code needed to run the backend for Argent Bank.
+Front repository available here : https://github.com/Dwain06/P13-argentbank-front.
+
 Argent Bank uses the following tech stack:
 
 - [Node.js v12](https://nodejs.org/en/)
